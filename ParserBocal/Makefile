@@ -5,7 +5,7 @@ CC = gcc
 CFLAGS = -Wall -Wextra
 
 # Directories
-DEST_DIR = ~/Desktop/appliAS/stuffs
+DEST_DIR = ../appliAS/stuffs
 
 # Targets
 all: process_JB process_JV process_JC
